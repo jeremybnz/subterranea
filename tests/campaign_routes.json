@@ -1,0 +1,32 @@
+{
+	"failures": 0,
+	"scenarios": [
+		{
+			"combat_setup": "high test shields; ordinary enemies frozen and nonblocking",
+			"escape_budget": 75.0,
+			"escape_seconds": 9.62681599999674,
+			"mission": 1,
+			"scenario_seconds": 63.9684089999912,
+			"state": "won",
+			"upgraded": false
+		},
+		{
+			"combat_setup": "high test shields; ordinary enemies frozen and nonblocking",
+			"escape_budget": 90.0,
+			"escape_seconds": 9.67508799999672,
+			"mission": 2,
+			"scenario_seconds": 64.2364979999912,
+			"state": "won",
+			"upgraded": false
+		},
+		{
+			"combat_setup": "high test shields; ordinary enemies frozen and nonblocking",
+			"escape_budget": 90.0,
+			"escape_seconds": 12.109375999996,
+			"mission": 3,
+			"scenario_seconds": 67.3603829999898,
+			"state": "won",
+			"upgraded": false
+		}
+	]
+}

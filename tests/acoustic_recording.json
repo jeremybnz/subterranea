@@ -1,0 +1,24 @@
+{
+  "source": "Godot internal master bus; no microphone/system capture",
+  "file": "exports/v091-clear-muffled-clear.wav",
+  "sections": [
+    {
+      "section": "clear",
+      "start": 0.2,
+      "end": 1.0,
+      "rms_dbfs": -26.043926475276304
+    },
+    {
+      "section": "blocked",
+      "start": 1.4,
+      "end": 2.2,
+      "rms_dbfs": -40.80220752537122
+    },
+    {
+      "section": "clear_again",
+      "start": 2.6,
+      "end": 3.4,
+      "rms_dbfs": -26.04117208612688
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+	"failures": 0,
+	"physics_ticks": 180,
+	"results": [
+		{
+			"camera_penetrations": 0,
+			"camera_samples": 241,
+			"external_frames": 0,
+			"fallback_frames": 0,
+			"kills": 6,
+			"max_hull_fragments": 25,
+			"minimum_shield": 60.0,
+			"seconds": 24.0,
+			"shield": 60.0,
+			"state": "playing",
+			"stats": {
+				"damage_dealt": 378.0,
+				"damage_taken": 40.0,
+				"enemy_shots": 8,
+				"hazard_damage": 0.0,
+				"pickups": 0,
+				"shots": {
+					"missile": 0,
+					"plasma": 0,
+					"pulse": 24,
+					"rail": 0
+				}
+			},
+			"view": "cockpit",
+			"weapon": "PULSE / MK II"
+		},
+		{
+			"camera_penetrations": 0,
+			"camera_samples": 241,
+			"external_frames": 1441,
+			"fallback_frames": 0,
+			"kills": 6,
+			"max_hull_fragments": 24,
+			"minimum_shield": 52.0,
+			"seconds": 24.0,
+			"shield": 52.0,
+			"state": "playing",
+			"stats": {
+				"damage_dealt": 378.0,
+				"damage_taken": 48.0,
+				"enemy_shots": 8,
+				"hazard_damage": 0.0,
+				"pickups": 0,
+				"shots": {
+					"missile": 0,
+					"plasma": 0,
+					"pulse": 24,
+					"rail": 0
+				}
+			},
+			"view": "chase",
+			"weapon": "PULSE / MK II"
+		},
+		{
+			"camera_penetrations": 0,
+			"camera_samples": 241,
+			"external_frames": 0,
+			"fallback_frames": 0,
+			"kills": 6,
+			"max_hull_fragments": 24,
+			"minimum_shield": 52.0,
+			"seconds": 24.0,
+			"shield": 52.0,
+			"state": "playing",
+			"stats": {
+				"damage_dealt": 378.0,
+				"damage_taken": 48.0,
+				"enemy_shots": 12,
+				"hazard_damage": 0.0,
+				"pickups": 0,
+				"shots": {
+					"missile": 0,
+					"plasma": 14,
+					"pulse": 0,
+					"rail": 0
+				}
+			},
+			"view": "cockpit",
+			"weapon": "PLASMA / CYCLONE"
+		},
+		{
+			"camera_penetrations": 0,
+			"camera_samples": 241,
+			"external_frames": 1441,
+			"fallback_frames": 0,
+			"kills": 6,
+			"max_hull_fragments": 24,
+			"minimum_shield": 52.0,
+			"seconds": 24.0,
+			"shield": 52.0,
+			"state": "playing",
+			"stats": {
+				"damage_dealt": 378.0,
+				"damage_taken": 48.0,
+				"enemy_shots": 12,
+				"hazard_damage": 0.0,
+				"pickups": 0,
+				"shots": {
+					"missile": 0,
+					"plasma": 13,
+					"pulse": 0,
+					"rail": 0
+				}
+			},
+			"view": "chase",
+			"weapon": "PLASMA / CYCLONE"
+		},
+		{
+			"camera_penetrations": 0,
+			"camera_samples": 241,
+			"external_frames": 0,
+			"fallback_frames": 0,
+			"kills": 6,
+			"max_hull_fragments": 18,
+			"minimum_shield": 52.0,
+			"seconds": 24.0,
+			"shield": 52.0,
+			"state": "playing",
+			"stats": {
+				"damage_dealt": 378.0,
+				"damage_taken": 48.0,
+				"enemy_shots": 17,
+				"hazard_damage": 0.0,
+				"pickups": 0,
+				"shots": {
+					"missile": 0,
+					"plasma": 0,
+					"pulse": 0,
+					"rail": 6
+				}
+			},
+			"view": "cockpit",
+			"weapon": "RAIL / LANCER"
+		},
+		{
+			"camera_penetrations": 0,
+			"camera_samples": 241,
+			"external_frames": 1441,
+			"fallback_frames": 0,
+			"kills": 6,
+			"max_hull_fragments": 19,
+			"minimum_shield": 28.0,
+			"seconds": 24.0,
+			"shield": 28.0,
+			"state": "playing",
+			"stats": {
+				"damage_dealt": 378.0,
+				"damage_taken": 72.0,
+				"enemy_shots": 17,
+				"hazard_damage": 0.0,
+				"pickups": 0,
+				"shots": {
+					"missile": 0,
+					"plasma": 0,
+					"pulse": 0,
+					"rail": 6
+				}
+			},
+			"view": "chase",
+			"weapon": "RAIL / LANCER"
+		}
+	],
+	"setup": "Standard difficulty, normal shields, no upgrades, all enemy AI active; scripted orbit and aiming; first two simulation seconds do not fire; shots and camera checks use actual physics",
+	"time_scale": 3
+}

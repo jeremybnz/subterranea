@@ -1,0 +1,20 @@
+{
+	"failures": 0,
+	"routes": [
+		{
+			"key": "BLUE",
+			"mission": 1,
+			"seconds": 9.07158787878784
+		},
+		{
+			"key": "YELLOW",
+			"mission": 2,
+			"seconds": 6.03346666666663
+		},
+		{
+			"key": "RED",
+			"mission": 3,
+			"seconds": 8.78920799999997
+		}
+	]
+}

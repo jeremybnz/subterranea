@@ -1,0 +1,35 @@
+{
+	"failures": 0,
+	"scenarios": [
+		{
+			"camera": "chase requested, automatic clearance fallback",
+			"combat_setup": "high test shields; ordinary enemies frozen and nonblocking",
+			"escape_budget": 75.0,
+			"escape_seconds": 9.61991999999661,
+			"mission": 1,
+			"scenario_seconds": 63.9550633333241,
+			"state": "won",
+			"upgraded": false
+		},
+		{
+			"camera": "chase requested, automatic clearance fallback",
+			"combat_setup": "high test shields; ordinary enemies frozen and nonblocking",
+			"escape_budget": 90.0,
+			"escape_seconds": 9.67675993650477,
+			"mission": 2,
+			"scenario_seconds": 64.238167936499,
+			"state": "won",
+			"upgraded": false
+		},
+		{
+			"camera": "chase requested, automatic clearance fallback",
+			"combat_setup": "high test shields; ordinary enemies frozen and nonblocking",
+			"escape_budget": 90.0,
+			"escape_seconds": 12.102892111107,
+			"mission": 3,
+			"scenario_seconds": 67.3537719999893,
+			"state": "won",
+			"upgraded": false
+		}
+	]
+}

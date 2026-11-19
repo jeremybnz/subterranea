@@ -1,0 +1,158 @@
+{
+  "checks": "All thirty files decoded as mono PCM16 44.1 kHz; peaks below 0.8 full scale, zero full-scale clipped samples; loop seams checked",
+  "files": [
+    {
+      "file": "pulse_0.wav",
+      "peak": 0.67999267578125,
+      "clipped_samples": 0
+    },
+    {
+      "file": "hostile_0.wav",
+      "peak": 0.5999755859375,
+      "clipped_samples": 0
+    },
+    {
+      "file": "plasma_0.wav",
+      "peak": 0.719970703125,
+      "clipped_samples": 0
+    },
+    {
+      "file": "explosion_0.wav",
+      "peak": 0.77996826171875,
+      "clipped_samples": 0
+    },
+    {
+      "file": "metal_hit_0.wav",
+      "peak": 0.639984130859375,
+      "clipped_samples": 0
+    },
+    {
+      "file": "door_open_0.wav",
+      "peak": 0.579986572265625,
+      "clipped_samples": 0
+    },
+    {
+      "file": "door_close_0.wav",
+      "peak": 0.579986572265625,
+      "clipped_samples": 0
+    },
+    {
+      "file": "pulse_1.wav",
+      "peak": 0.67999267578125,
+      "clipped_samples": 0
+    },
+    {
+      "file": "hostile_1.wav",
+      "peak": 0.5999755859375,
+      "clipped_samples": 0
+    },
+    {
+      "file": "plasma_1.wav",
+      "peak": 0.719970703125,
+      "clipped_samples": 0
+    },
+    {
+      "file": "explosion_1.wav",
+      "peak": 0.77996826171875,
+      "clipped_samples": 0
+    },
+    {
+      "file": "metal_hit_1.wav",
+      "peak": 0.639984130859375,
+      "clipped_samples": 0
+    },
+    {
+      "file": "door_open_1.wav",
+      "peak": 0.579986572265625,
+      "clipped_samples": 0
+    },
+    {
+      "file": "door_close_1.wav",
+      "peak": 0.579986572265625,
+      "clipped_samples": 0
+    },
+    {
+      "file": "pulse_2.wav",
+      "peak": 0.67999267578125,
+      "clipped_samples": 0
+    },
+    {
+      "file": "hostile_2.wav",
+      "peak": 0.5999755859375,
+      "clipped_samples": 0
+    },
+    {
+      "file": "plasma_2.wav",
+      "peak": 0.719970703125,
+      "clipped_samples": 0
+    },
+    {
+      "file": "explosion_2.wav",
+      "peak": 0.77996826171875,
+      "clipped_samples": 0
+    },
+    {
+      "file": "metal_hit_2.wav",
+      "peak": 0.639984130859375,
+      "clipped_samples": 0
+    },
+    {
+      "file": "door_open_2.wav",
+      "peak": 0.579986572265625,
+      "clipped_samples": 0
+    },
+    {
+      "file": "door_close_2.wav",
+      "peak": 0.579986572265625,
+      "clipped_samples": 0
+    },
+    {
+      "file": "rail_0.wav",
+      "peak": 0.759979248046875,
+      "clipped_samples": 0
+    },
+    {
+      "file": "rail_1.wav",
+      "peak": 0.759979248046875,
+      "clipped_samples": 0
+    },
+    {
+      "file": "shield_impact.wav",
+      "peak": 0.5999755859375,
+      "clipped_samples": 0
+    },
+    {
+      "file": "missile_launch.wav",
+      "peak": 0.699981689453125,
+      "clipped_samples": 0
+    },
+    {
+      "file": "rail_charge.wav",
+      "peak": 0.54998779296875,
+      "clipped_samples": 0
+    },
+    {
+      "file": "reactor_burst.wav",
+      "peak": 0.72998046875,
+      "clipped_samples": 0
+    },
+    {
+      "file": "engine_loop.wav",
+      "peak": 0.5999755859375,
+      "clipped_samples": 0,
+      "boundary_step": 0.000640869140625
+    },
+    {
+      "file": "boost_loop.wav",
+      "peak": 0.649993896484375,
+      "clipped_samples": 0,
+      "boundary_step": 0.012176513671875
+    },
+    {
+      "file": "machine_loop.wav",
+      "peak": 0.5,
+      "clipped_samples": 0,
+      "boundary_step": 0.017547607421875
+    }
+  ]
+}

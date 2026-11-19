@@ -1,0 +1,137 @@
+{
+	"physics_ticks": 120,
+	"results": [
+		{
+			"courier": "delivered",
+			"difficulty": "Standard",
+			"disable_events": 0,
+			"end_integrity": 160.0,
+			"kills": 8,
+			"minimum_integrity": 160.0,
+			"missiles_left": 6,
+			"mission": 1,
+			"seconds": 28.2,
+			"ship_shield": 100.0,
+			"ship_state": "playing",
+			"stats": {
+				"damage_dealt": 576.0,
+				"damage_taken": 0.0,
+				"enemy_shots": 3,
+				"hazard_damage": 0.0,
+				"pickups": 0,
+				"shots": {
+					"missile": 2,
+					"plasma": 0,
+					"pulse": 33,
+					"rail": 0
+				}
+			}
+		},
+		{
+			"courier": "delivered",
+			"difficulty": "Standard",
+			"disable_events": 0,
+			"end_integrity": 160.0,
+			"kills": 7,
+			"minimum_integrity": 160.0,
+			"missiles_left": 6,
+			"mission": 2,
+			"seconds": 30.1,
+			"ship_shield": 100.0,
+			"ship_state": "playing",
+			"stats": {
+				"damage_dealt": 528.0,
+				"damage_taken": 0.0,
+				"enemy_shots": 0,
+				"hazard_damage": 0.0,
+				"pickups": 0,
+				"shots": {
+					"missile": 2,
+					"plasma": 0,
+					"pulse": 29,
+					"rail": 0
+				}
+			}
+		},
+		{
+			"courier": "delivered",
+			"difficulty": "Standard",
+			"disable_events": 0,
+			"end_integrity": 160.0,
+			"kills": 5,
+			"minimum_integrity": 160.0,
+			"missiles_left": 7,
+			"mission": 3,
+			"seconds": 20.6,
+			"ship_shield": 100.0,
+			"ship_state": "playing",
+			"stats": {
+				"damage_dealt": 402.0,
+				"damage_taken": 8.0,
+				"enemy_shots": 1,
+				"hazard_damage": 0.0,
+				"pickups": 1,
+				"shots": {
+					"missile": 1,
+					"plasma": 0,
+					"pulse": 26,
+					"rail": 0
+				}
+			}
+		},
+		{
+			"courier": "delivered",
+			"difficulty": "Pilot",
+			"disable_events": 0,
+			"end_integrity": 160.0,
+			"kills": 8,
+			"minimum_integrity": 160.0,
+			"missiles_left": 6,
+			"mission": 1,
+			"seconds": 28.2,
+			"ship_shield": 100.0,
+			"ship_state": "playing",
+			"stats": {
+				"damage_dealt": 576.0,
+				"damage_taken": 0.0,
+				"enemy_shots": 0,
+				"hazard_damage": 0.0,
+				"pickups": 0,
+				"shots": {
+					"missile": 2,
+					"plasma": 0,
+					"pulse": 33,
+					"rail": 0
+				}
+			}
+		},
+		{
+			"courier": "delivered",
+			"difficulty": "Ace",
+			"disable_events": 0,
+			"end_integrity": 160.0,
+			"kills": 8,
+			"minimum_integrity": 160.0,
+			"missiles_left": 6,
+			"mission": 1,
+			"seconds": 28.2,
+			"ship_shield": 100.0,
+			"ship_state": "playing",
+			"stats": {
+				"damage_dealt": 576.0,
+				"damage_taken": 0.0,
+				"enemy_shots": 1,
+				"hazard_damage": 0.0,
+				"pickups": 0,
+				"shots": {
+					"missile": 2,
+					"plasma": 0,
+					"pulse": 33,
+					"rail": 0
+				}
+			}
+		}
+	],
+	"setup": "normal shields, no upgrades, all enemy AI active, scripted pilot begins at refuge pod and escorts with pulse and missiles",
+	"time_scale": 5
+}

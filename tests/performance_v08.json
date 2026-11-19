@@ -1,0 +1,34 @@
+{
+	"renderer": "NVIDIA GeForce RTX 3050",
+	"results": [
+		{
+			"draw_calls": 569.0,
+			"mean_ms": 8.1105,
+			"mission": 1,
+			"nodes": 1898.0,
+			"p50_ms": 7.707,
+			"p95_ms": 12.299,
+			"startup_ms": 1441.428
+		},
+		{
+			"draw_calls": 353.0,
+			"mean_ms": 11.95775,
+			"mission": 2,
+			"nodes": 1524.0,
+			"p50_ms": 12.368,
+			"p95_ms": 16.273,
+			"startup_ms": 541.535
+		},
+		{
+			"draw_calls": 349.0,
+			"mean_ms": 12.4749,
+			"mission": 3,
+			"nodes": 1499.0,
+			"p50_ms": 12.729,
+			"p95_ms": 16.911,
+			"startup_ms": 936.272
+		}
+	],
+	"viewport": "(1600.0, 900.0)",
+	"vsync": "off"
+}

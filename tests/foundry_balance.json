@@ -1,0 +1,71 @@
+{
+	"results": [
+		{
+			"kills": 5,
+			"mission": 1,
+			"ok": true,
+			"produced": 2,
+			"seconds": 21.2,
+			"shield": 100.0,
+			"shutdown_seconds": 12.2,
+			"stats": {
+				"damage_dealt": 372.0,
+				"damage_taken": 0.0,
+				"enemy_shots": 0,
+				"hazard_damage": 0.0,
+				"pickups": 0,
+				"shots": {
+					"missile": 0,
+					"plasma": 0,
+					"pulse": 42,
+					"rail": 0
+				}
+			}
+		},
+		{
+			"kills": 4,
+			"mission": 2,
+			"ok": true,
+			"produced": 2,
+			"seconds": 21.4,
+			"shield": 100.0,
+			"shutdown_seconds": 12.3,
+			"stats": {
+				"damage_dealt": 294.0,
+				"damage_taken": 0.0,
+				"enemy_shots": 0,
+				"hazard_damage": 0.0,
+				"pickups": 0,
+				"shots": {
+					"missile": 0,
+					"plasma": 0,
+					"pulse": 37,
+					"rail": 0
+				}
+			}
+		},
+		{
+			"kills": 2,
+			"mission": 3,
+			"ok": true,
+			"produced": 2,
+			"seconds": 21.4,
+			"shield": 100.0,
+			"shutdown_seconds": 12.3,
+			"stats": {
+				"damage_dealt": 96.0,
+				"damage_taken": 0.0,
+				"enemy_shots": 6,
+				"hazard_damage": 0.0,
+				"pickups": 0,
+				"shots": {
+					"missile": 0,
+					"plasma": 0,
+					"pulse": 16,
+					"rail": 0
+				}
+			}
+		}
+	],
+	"setup": "Standard difficulty, normal shields, no upgrades, all enemy AI active; stationary scripted pulse pilot; observe two production cycles, shoot foundry, then observe nine seconds"
+}

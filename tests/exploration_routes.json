@@ -1,0 +1,20 @@
+{
+	"failures": 0,
+	"routes": [
+		{
+			"mission": 1,
+			"seconds": 28.2157700317459,
+			"status": "delivered"
+		},
+		{
+			"mission": 2,
+			"seconds": 30.1360173333336,
+			"status": "delivered"
+		},
+		{
+			"mission": 3,
+			"seconds": 20.5344293333333,
+			"status": "delivered"
+		}
+	]
+}

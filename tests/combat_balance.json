@@ -1,0 +1,416 @@
+{
+	"enemy_ai": "active",
+	"failures": 0,
+	"normal_shields": true,
+	"physics_ticks": 120,
+	"results": [
+		{
+			"difficulty": "Pilot",
+			"dry_percent": 0.0,
+			"kills": 6,
+			"mean_energy": 97.3,
+			"missiles_left": 8,
+			"mission": 1,
+			"scenario": "Nereid nexus",
+			"seconds": 50.0,
+			"shield_left": 100.0,
+			"state": "playing",
+			"stats": {
+				"damage_dealt": 378.0,
+				"damage_taken": 0.0,
+				"enemy_shots": 1,
+				"hazard_damage": 0.0,
+				"pickups": 0,
+				"shots": {
+					"missile": 0,
+					"plasma": 0,
+					"pulse": 24,
+					"rail": 0
+				}
+			},
+			"trial": "ready",
+			"weapon": "pulse"
+		},
+		{
+			"difficulty": "Pilot",
+			"dry_percent": 0.0,
+			"kills": 6,
+			"mean_energy": 87.7,
+			"missiles_left": 8,
+			"mission": 1,
+			"scenario": "Nereid nexus",
+			"seconds": 50.0,
+			"shield_left": 100.0,
+			"state": "playing",
+			"stats": {
+				"damage_dealt": 378.0,
+				"damage_taken": 0.0,
+				"enemy_shots": 6,
+				"hazard_damage": 0.0,
+				"pickups": 1,
+				"shots": {
+					"missile": 0,
+					"plasma": 19,
+					"pulse": 0,
+					"rail": 0
+				}
+			},
+			"trial": "ready",
+			"weapon": "plasma"
+		},
+		{
+			"difficulty": "Pilot",
+			"dry_percent": 0.0,
+			"kills": 6,
+			"mean_energy": 88.2,
+			"missiles_left": 8,
+			"mission": 1,
+			"scenario": "Nereid nexus",
+			"seconds": 50.0,
+			"shield_left": 84.4,
+			"state": "playing",
+			"stats": {
+				"damage_dealt": 378.0,
+				"damage_taken": 15.6,
+				"enemy_shots": 10,
+				"hazard_damage": 0.0,
+				"pickups": 1,
+				"shots": {
+					"missile": 0,
+					"plasma": 0,
+					"pulse": 0,
+					"rail": 6
+				}
+			},
+			"trial": "ready",
+			"weapon": "rail"
+		},
+		{
+			"difficulty": "Standard",
+			"dry_percent": 0.0,
+			"kills": 6,
+			"mean_energy": 97.3,
+			"missiles_left": 8,
+			"mission": 1,
+			"scenario": "Nereid nexus",
+			"seconds": 50.0,
+			"shield_left": 100.0,
+			"state": "playing",
+			"stats": {
+				"damage_dealt": 378.0,
+				"damage_taken": 0.0,
+				"enemy_shots": 1,
+				"hazard_damage": 0.0,
+				"pickups": 0,
+				"shots": {
+					"missile": 0,
+					"plasma": 0,
+					"pulse": 24,
+					"rail": 0
+				}
+			},
+			"trial": "ready",
+			"weapon": "pulse"
+		},
+		{
+			"difficulty": "Standard",
+			"dry_percent": 0.0,
+			"kills": 6,
+			"mean_energy": 91.5,
+			"missiles_left": 8,
+			"mission": 1,
+			"scenario": "Nereid nexus",
+			"seconds": 50.1,
+			"shield_left": 100.0,
+			"state": "playing",
+			"stats": {
+				"damage_dealt": 378.0,
+				"damage_taken": 0.0,
+				"enemy_shots": 5,
+				"hazard_damage": 0.0,
+				"pickups": 1,
+				"shots": {
+					"missile": 0,
+					"plasma": 16,
+					"pulse": 0,
+					"rail": 0
+				}
+			},
+			"trial": "ready",
+			"weapon": "plasma"
+		},
+		{
+			"difficulty": "Standard",
+			"dry_percent": 0.0,
+			"kills": 6,
+			"mean_energy": 88.2,
+			"missiles_left": 8,
+			"mission": 1,
+			"scenario": "Nereid nexus",
+			"seconds": 50.0,
+			"shield_left": 68.0,
+			"state": "playing",
+			"stats": {
+				"damage_dealt": 378.0,
+				"damage_taken": 32.0,
+				"enemy_shots": 10,
+				"hazard_damage": 0.0,
+				"pickups": 1,
+				"shots": {
+					"missile": 0,
+					"plasma": 0,
+					"pulse": 0,
+					"rail": 6
+				}
+			},
+			"trial": "ready",
+			"weapon": "rail"
+		},
+		{
+			"difficulty": "Ace",
+			"dry_percent": 0.0,
+			"kills": 6,
+			"mean_energy": 97.3,
+			"missiles_left": 8,
+			"mission": 1,
+			"scenario": "Nereid nexus",
+			"seconds": 50.0,
+			"shield_left": 100.0,
+			"state": "playing",
+			"stats": {
+				"damage_dealt": 378.0,
+				"damage_taken": 0.0,
+				"enemy_shots": 1,
+				"hazard_damage": 0.0,
+				"pickups": 0,
+				"shots": {
+					"missile": 0,
+					"plasma": 0,
+					"pulse": 24,
+					"rail": 0
+				}
+			},
+			"trial": "ready",
+			"weapon": "pulse"
+		},
+		{
+			"difficulty": "Ace",
+			"dry_percent": 0.0,
+			"kills": 6,
+			"mean_energy": 87.7,
+			"missiles_left": 8,
+			"mission": 1,
+			"scenario": "Nereid nexus",
+			"seconds": 50.0,
+			"shield_left": 100.0,
+			"state": "playing",
+			"stats": {
+				"damage_dealt": 378.0,
+				"damage_taken": 0.0,
+				"enemy_shots": 5,
+				"hazard_damage": 0.0,
+				"pickups": 1,
+				"shots": {
+					"missile": 0,
+					"plasma": 19,
+					"pulse": 0,
+					"rail": 0
+				}
+			},
+			"trial": "ready",
+			"weapon": "plasma"
+		},
+		{
+			"difficulty": "Ace",
+			"dry_percent": 0.0,
+			"kills": 6,
+			"mean_energy": 88.2,
+			"missiles_left": 8,
+			"mission": 1,
+			"scenario": "Nereid nexus",
+			"seconds": 50.0,
+			"shield_left": 58.4,
+			"state": "playing",
+			"stats": {
+				"damage_dealt": 378.0,
+				"damage_taken": 41.6,
+				"enemy_shots": 10,
+				"hazard_damage": 0.0,
+				"pickups": 1,
+				"shots": {
+					"missile": 0,
+					"plasma": 0,
+					"pulse": 0,
+					"rail": 6
+				}
+			},
+			"trial": "ready",
+			"weapon": "rail"
+		},
+		{
+			"difficulty": "Standard",
+			"dry_percent": 0.0,
+			"kills": 4,
+			"mean_energy": 54.6,
+			"missiles_left": 15,
+			"mission": 3,
+			"scenario": "Helios vault trial",
+			"seconds": 13.3,
+			"shield_left": 100.0,
+			"state": "playing",
+			"stats": {
+				"damage_dealt": 801.700000000001,
+				"damage_taken": 0.0,
+				"enemy_shots": 23,
+				"hazard_damage": 0.0,
+				"pickups": 3,
+				"shots": {
+					"missile": 0,
+					"plasma": 0,
+					"pulse": 87,
+					"rail": 0
+				}
+			},
+			"trial": "cleared",
+			"weapon": "pulse"
+		},
+		{
+			"difficulty": "Standard",
+			"dry_percent": 0.0,
+			"kills": 5,
+			"mean_energy": 53.6,
+			"missiles_left": 11,
+			"mission": 3,
+			"scenario": "Helios vault trial",
+			"seconds": 9.3,
+			"shield_left": 100.0,
+			"state": "playing",
+			"stats": {
+				"damage_dealt": 814.0,
+				"damage_taken": 0.0,
+				"enemy_shots": 19,
+				"hazard_damage": 0.0,
+				"pickups": 2,
+				"shots": {
+					"missile": 0,
+					"plasma": 23,
+					"pulse": 0,
+					"rail": 0
+				}
+			},
+			"trial": "cleared",
+			"weapon": "plasma"
+		},
+		{
+			"difficulty": "Standard",
+			"dry_percent": 8.2,
+			"kills": 4,
+			"mean_energy": 46.5,
+			"missiles_left": 11,
+			"mission": 3,
+			"scenario": "Helios vault trial",
+			"seconds": 13.4,
+			"shield_left": 100.0,
+			"state": "playing",
+			"stats": {
+				"damage_dealt": 664.0,
+				"damage_taken": 7.0,
+				"enemy_shots": 30,
+				"hazard_damage": 0.0,
+				"pickups": 2,
+				"shots": {
+					"missile": 0,
+					"plasma": 0,
+					"pulse": 0,
+					"rail": 8
+				}
+			},
+			"trial": "cleared",
+			"weapon": "rail"
+		},
+		{
+			"difficulty": "Pilot",
+			"dry_percent": 0.0,
+			"kills": 0,
+			"mean_energy": 100.0,
+			"missiles_left": 8,
+			"mission": 1,
+			"scenario": "Stationary control",
+			"seconds": 10.4,
+			"shield_left": 0.0,
+			"state": "lost",
+			"stats": {
+				"damage_dealt": 0.0,
+				"damage_taken": 100.0,
+				"enemy_shots": 27,
+				"hazard_damage": 0.0,
+				"pickups": 0,
+				"shots": {
+					"missile": 0,
+					"plasma": 0,
+					"pulse": 0,
+					"rail": 0
+				}
+			},
+			"trial": "ready",
+			"weapon": "pulse"
+		},
+		{
+			"difficulty": "Standard",
+			"dry_percent": 0.0,
+			"kills": 0,
+			"mean_energy": 100.0,
+			"missiles_left": 8,
+			"mission": 1,
+			"scenario": "Stationary control",
+			"seconds": 7.0,
+			"shield_left": 0.0,
+			"state": "lost",
+			"stats": {
+				"damage_dealt": 0.0,
+				"damage_taken": 100.0,
+				"enemy_shots": 16,
+				"hazard_damage": 0.0,
+				"pickups": 0,
+				"shots": {
+					"missile": 0,
+					"plasma": 0,
+					"pulse": 0,
+					"rail": 0
+				}
+			},
+			"trial": "ready",
+			"weapon": "pulse"
+		},
+		{
+			"difficulty": "Ace",
+			"dry_percent": 0.0,
+			"kills": 0,
+			"mean_energy": 100.0,
+			"missiles_left": 8,
+			"mission": 1,
+			"scenario": "Stationary control",
+			"seconds": 6.9,
+			"shield_left": 0.0,
+			"state": "lost",
+			"stats": {
+				"damage_dealt": 0.0,
+				"damage_taken": 100.0,
+				"enemy_shots": 16,
+				"hazard_damage": 0.0,
+				"pickups": 0,
+				"shots": {
+					"missile": 0,
+					"plasma": 0,
+					"pulse": 0,
+					"rail": 0
+				}
+			},
+			"trial": "ready",
+			"weapon": "pulse"
+		}
+	],
+	"seed": 5100,
+	"time_scale": 6,
+	"upgrades": 0
+}
